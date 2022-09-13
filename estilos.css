@@ -1,0 +1,123 @@
+body{
+    color: white;
+    font-family: sans-serif;
+    background: black;
+}
+.nav-link{
+    padding-left: 60px;
+    text-decoration: none;
+    color: white;
+}
+
+.b{
+    padding: 250px;
+    left: 300px;
+    border-radius: 50px;
+}
+
+.img1{
+    display: inline-block;
+    position: absolute;
+    left: 30px;
+    width: 200px;
+    nav-up: 10px;
+}
+
+.inf{
+    padding: 100px;
+}
+
+.xp{
+    padding-left: 100px;
+}
+
+.img3{
+    left: 10px;
+    display: block;
+    position: relative;
+    margin: 10px;
+    width: 300px;
+}
+
+.p{
+    padding: 0 30px;
+}
+
+.f{
+ text-align: center;
+}
+
+.imgz{
+    display: block;
+    position: relative;
+    width: 10;
+    left: 610px;
+}
+
+.config{
+    color: white;
+    padding: 50px;
+    display: inline-block;
+}
+
+.dc{
+     color: white;
+     padding: 50px;
+     display: inline-block;
+
+}
+
+.vps{
+    color: white;
+    padding: 50px;
+    display: inline-block;
+}
+
+.gmi{
+    width: 300px;
+    position: relative;
+}
+
+.min{
+    color: white;
+    padding: 50px;
+    display: inline-block;
+}
+
+.min2{
+    color: white;
+    padding: 50px;
+    display: inline-block;
+}
+
+.medi{
+    color: white;
+    padding: 50px;
+    display: inline-block;
+}
+
+.lin{
+    color: white;
+    padding: 50px;
+    display: inline-block;
+}
+
+.conta{
+    color: white;
+    padding: 50px;
+    display: inline-block;
+}
+
+.dona{
+    color: white;
+    padding: 50px;
+    display: inline-block;
+}
+.gm{
+    width: 200px;
+    position: relative;
+}
+.mi{
+    width: 400px;
+    position: relative;
+}
